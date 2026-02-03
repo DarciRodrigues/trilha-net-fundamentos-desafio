@@ -1,0 +1,14 @@
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.AssemblyInfoInputs.cache
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.AssemblyInfo.cs
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.csproj.CoreCompileInputs.cache
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\bin\Debug\net10.0\projetocsharp10.exe
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\bin\Debug\net10.0\projetocsharp10.deps.json
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\bin\Debug\net10.0\projetocsharp10.runtimeconfig.json
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\bin\Debug\net10.0\projetocsharp10.dll
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\bin\Debug\net10.0\projetocsharp10.pdb
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.dll
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\refint\projetocsharp10.dll
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.pdb
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\projetocsharp10.genruntimeconfig.cache
+C:\Users\darci\Desktop\estudo-csharp\projetocsharp10\obj\Debug\net10.0\ref\projetocsharp10.dll
